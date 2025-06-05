@@ -1,16 +1,39 @@
-## Hi there 👋
+# KOI-x
 
-<!--
-**KOI-x/KOI-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Quiet experimentation. Bricks, not boasts.*
 
-Here are some ideas to get you started:
+Welcome to a space in progress.  
+This account is a notebook. A sandbox.  
+A place where ideas try to walk.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m not a developer by trade.  
+I’m not a coder by expertise.  
+But I’m learning — line by line, bug by bug.
+
+---
+
+### 📌 What you’ll find here
+- Scripts that work (sometimes).
+- Systems that break (often).
+- Efforts to understand what I’m building.
+
+This is not about polish.  
+It’s about **open construction**.  
+Following the ethos of those who built things that outlived them.
+
+---
+
+### 🌱 Philosophy
+- Build publicly  
+- Document mistakes  
+- Stay kind, stay curious  
+- Don’t fake knowledge  
+- Give credit  
+- Respect the unknown  
+
+---
+
+> *“Rough code. Clean intent.”*
+> *“No tengo todo claro, pero estoy caminando. Gracias por pasar por aquí.”*
+
+
